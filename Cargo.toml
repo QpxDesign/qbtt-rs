@@ -2,6 +2,10 @@
 name = "qbtt"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Quinn's Basic TOML Tests for Rust is a very simple way to run and check tests right from the command line, with support for checksum, line_count, and string-contains checks"
+readme = "README.md"
+repository = "https://github.com/QpxDesign/qbtt-rs"
 
 [dependencies]
 async-process = "2.1.0"
